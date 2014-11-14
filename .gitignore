@@ -1,0 +1,21 @@
+
+# Ignore all
+*
+
+# Unignore files with extensions .c and .h
+!*.c
+
+# Unignore makefiles
+!makefile
+
+# Unignore .gitignore
+!.gitignore
+
+# Unignore markdown files
+!*.md
+
+# Unignore gpl files
+!*.gpl
+
+# Unignore png files
+!*.png

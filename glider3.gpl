@@ -1,0 +1,8 @@
+unset key
+set style data line
+
+set term png
+set o "glider3.png"
+
+#p [-1:9] [1:] "res1" u 4:5, "res2" u 4:5, "res3" u 4:5
+p [-1:9] [1:] "res3" u 4:5
